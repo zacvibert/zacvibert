@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zacvibert
-- 👀 I’m interested in software dev, Blockchain, Web 3
-- 🌱 I’m currently learning Computer Science (CS50)
+- 👀 I’m interested in software dev, Blockchain, AI
+- 🌱 I’m currently learning Computer Science (CS50)and Code Academy
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me zacvibe at hotmail.com
 
